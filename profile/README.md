@@ -1,12 +1,13 @@
-## Hi there 👋
+<h1 align="center">:coffee:	Μέλη ομάδας :coffee:	</h1>
 
-<!--
+<center>
+  
+| Ονοματεπώνυμο | ΑΜ | Github Profile Link | Email |
+| --- | --- | --- | --- |
+| Tsimpliarakis Michail | 2019033 | [Link](https://github.com/tsimpliarakis/) | p19tsib@ionio.gr |
+| Dimosten Xama | 2019213 | [Link](https://github.com/p19tzam) | p19tzam@ionio.gr |
+| Alkis sourvinos | 2018028 | [Link](https://github.com/Alkissourvinos) | p18sour@ionio.gr |
+| Theodoros Kontos | 2019193 | [Link](github.com/tsimpliarakis) | p19kont1@ionio.gr |
+| Gerasimos Grammenos | 2019194 | [Link](github.com/tsimpliarakis) | p19gram@ionio.gr |
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</center>
